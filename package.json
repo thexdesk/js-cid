@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "class-is": "^1.1.0",
-    "multibase": "~0.6.0",
+    "multibase": "~0.7.0",
     "multicodec": "~0.5.1",
     "multihashes": "~0.4.14"
   },
